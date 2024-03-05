@@ -13,8 +13,7 @@
 - Automation.
 
 
-
-  Menor privilegio
+Principio de menor privilegio: Definir los permisos solo necesarios para que puedan realizar su trabajo.
 
   Trazabilidad: Monitoreas las acciones, auditar recursos en la nube.
 
