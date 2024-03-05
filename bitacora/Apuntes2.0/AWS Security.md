@@ -6,26 +6,32 @@
 - Auditability:
   Quien tiene acceso a los recuersos, cuando fue realizado. AWS cloudTrall.
   
-- Visibility.
+- Visibility. AWS config
 
-- Agility and automation.
+- Agility: AWS Cloud 
 
-- Menor privilegio:
+- Automation.
 
-- Trazabilidad: Monitoreas las acciones, auditar recursos en la nube.
 
-- Secure all layers: Defensa en profundidad, no confiar solo en los firewall.
 
-- Automatizacion de la seguridad: Monitorear eventos para enviar alertas.
+  Menor privilegio
 
-- Proteger los datos en transito y en reposo: Usar protocolos seguros. Datos en reposo
+  Trazabilidad: Monitoreas las acciones, auditar recursos en la nube.
 
-- Prepararse para eventos de seguridad
+  Secure all layers: Defensa en profundidad, no confiar solo en los firewall.
 
-- Minimiza the attack surface
+  Automatizacion de la seguridad: Monitorear eventos para enviar alertas.
+
+  Proteger los datos en transito y en reposo: Usar protocolos seguros. Datos en reposo
+
+  Prepararse para eventos de seguridad
+
+  Minimiza the attack surface
  
   Diseños de seguridad de la mibe
   - Responsabilidad compartida
+
+Modelo de responsabilidad de la nube: 
 
     # Escenario 1
  Responsabilidad de AWS: 
