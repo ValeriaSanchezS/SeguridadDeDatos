@@ -1,10 +1,12 @@
 # Security access to cloud resources
 
 Ayudar al control de accesos de los recursos de AWS. 
+AWS CloudFormation
 
 ## Modelo de responsabilidad compartida
-Cliente
-AWS
+Cliente: Plataforma, aplicaciones, identificacion y manejamiento de accesos, sistema operativo 
+
+AWS: Almacenamiento, Bases de datos, Regions, Disponibilidad de la zona. 
 
 ### AWS Identify and Access Management (IAM)
 
@@ -15,9 +17,9 @@ Granular: Son permisos que se dan para el acceso.
 
 ### IAM provides
 - Autenticacion: quien quiere el acceso
-- Autorizacion: Si puedes obtener acceso 
+- Autorizacion: A que tienes acceso 
 
-### IAM 
+### IAM overview
 
 - USER: Una persona o aplicaion que puede autenticar con la cuente de AWS
 - GROUP: A collection
@@ -25,13 +27,19 @@ Granular: Son permisos que se dan para el acceso.
 - IAM policy: Se definen las acciones que se permiten
 
 ### IAM terminology 
-- IAM entity:
+- IAM entity: Se usa para la autenticacion de los usuarios y roles 
 - IAM identify: Aquellos objetos dentro de los recursos de IAM para asignar politicas.
 - IAM resource: Aquel recursos al que quieres otorgar el permiso.
 - Principal: La persona o aplicacion que usa la cuenta AWS como root user
 
 ### Requests 
+
 Informacion que necesitas: 
+- Action or operations: Que es lo que quiere hacer
+- Resourses:
+- Principal: La persona o la aplicacion que envia la peticion
+- Environment data: La IP address, user agnet, time of day
+- Resourse Data
 
 ### Service endpoint
 Para conectarte a AWS service puedes utilizar el URL 
