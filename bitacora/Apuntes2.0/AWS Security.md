@@ -6,7 +6,7 @@
 - Auditability:
   Quien tiene acceso a los recuersos, cuando fue realizado. AWS cloudTrall.
   
-- Visibility. AWS config
+- Visibility: Que lo que tengo, que ha cambiado. AWS config
 
 - Agility: AWS Cloud 
 
