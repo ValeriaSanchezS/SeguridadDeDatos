@@ -13,9 +13,9 @@ Cliente: es el que usa o consume el servicio final que realizaste.
 Usuario: El que crea.
 
 ### Tipos de modelos de servicios en la nube:
-IaaS: Infraestructura como servicio
-Pass: Plataforma como servicio 
-Saas: Software como servicio
+- IaaS: Infraestructura como servicio
+- Pass: Plataforma como servicio 
+- Saas: Software como servicio
 
 ![visual studio code logo](https://miro.medium.com/v2/resize:fit:1200/1*WIxe9rvePZWX-VQgZDgMpQ.jpeg)
 
