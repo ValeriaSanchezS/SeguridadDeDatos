@@ -14,17 +14,18 @@ Puede atacar en la capa  de Red o de Transporte.
 
 Modelo OSI: 
 
-Fisica: Conectores, Tarjetas de red, medios. HUB
-Enlace de datos: MAC address- SWITCHES(Direccion fisica de origen y direccion fisica de destino)
+- Fisica: Conectores, Tarjetas de red, medios. HUB
 
-FIREWALL DE RED
-Red: Aqui estan los IPs. ROUTERS
-Transporte : Aqui estan los puertos
+- Enlace de datos: MAC address- SWITCHES(Direccion fisica de origen y direccion fisica de destino)
+
+- Red: Aqui estan los IPs. ROUTERS. 
+
+- Transporte : Aqui estan los puertos
 
 Aqui es el formato: HTTP, SMTP, FTP, ZIP, TXT, XLS, cookies, mantener la sesion. 
-Sesion
-Presentacion
-Aplicacion
+- Sesion: FileSystem
+- Presentacion
+- Aplicacion
 
 Tipos de respaldos: 
 * Full: respaldo completo
