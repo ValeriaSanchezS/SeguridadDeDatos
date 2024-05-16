@@ -1,33 +1,29 @@
 # Apple MacOS
+Evidencias.
 
-### Run the following command to verify there are NO software updates:
+<img width="1355" alt="1" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/409944b7-d2ae-4606-bf48-2b10abbda482">
 
-```
-/usr/bin/sudo /usr/sbin/softwareupdate -l 
-```
+<img width="1378" alt="2" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/ed7b2fce-2df4-4af8-93bc-e6cc0062f68a">
 
-> **The output will include the following:**
-> "Software Update Tool"
->
-> "Finding available software"
->
-> "No new software available"
+<img width="1410" alt="3" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/446445a5-a4c4-4361-9a13-d276db5fd435">
 
-### Run the following command to verify what packages need to be installed:
+<img width="1185" alt="4" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/9621d89f-5db7-4c1d-8cb1-ea8024cf341f">
 
-```
-/usr/bin/sudo /usr/sbin/softwareupdate -l
-```
+<img width="1377" alt="5" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/3337bdaf-abb5-4a0b-a027-ae9fbb3a9976">
 
-> **The output will include the following:** "Software Update found the following new or updated software: "
+<img width="1363" alt="6" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/f933e7f6-e414-47e2-bed0-2700693b2bf7">
 
-### Run the following command to install all the packages that need to be updated: To install all updates run the command:
+<img width="1432" alt="7" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/6e81d3eb-7140-4b43-8069-8408fb4c59da">
 
-/usr/bin/sudo /usr/sbin/softwareupdate -i -a
 
-#Or run the following command to install individual packages:
 
- /usr/bin/sudo /usr/sbin/softwareupdate -i '<package name>'
+<img width="1414" alt="9" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/36112c26-e145-49a1-83e1-b9961a8f60ff">
+
+<img width="1284" alt="45" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/9e6f8f35-cbcb-45d4-9178-b4b8173a19a5">
+
+<img width="1195" alt="30" src="https://github.com/ValeriaSanchezS/SeguridadDeDatos/assets/79124584/10353cbd-aaff-49ee-9fce-bb4d6b2563a6">
+
+
 
 
 
